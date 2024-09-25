@@ -14,6 +14,10 @@ Hello, I’m Johnny – a Full-Stack Engineer with a passion for Frontend 🌈
 
 <a href="https://twitter.com/JohnnyGrid" target="_blank" style="">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/johnnygrid?style=social">
+</a>&nbsp;
+
+<a href="https://www.youtube.com/@JohnnyGrid" target="_blank" style="">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF47UOKvbpLwjOjSaQgMJcg?style=social">
 </a>
 
 ##### Tech stack
