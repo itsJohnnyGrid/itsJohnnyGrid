@@ -2,7 +2,7 @@ Hello, I’m Johnny – a Full-Stack Engineer with a passion for Frontend 🌈
 
 #### A few facts about me:
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🧬&nbsp; Founder of <a href="https://vueless.com" target="_blank">Vueless UI</a> – a styleless UI component library for Vue & Nuxt <sup>(<a href="https://github.com/vuelessjs/vueless" target="_blank">open source</a>)</sup></br>
+&nbsp;&nbsp;&nbsp;&nbsp; 🧬&nbsp; Creator of <a href="https://vueless.com" target="_blank">Vueless UI</a> – a styleless UI component library for Vue & Nuxt <sup>(<a href="https://github.com/vuelessjs/vueless" target="_blank">open source</a>)</sup></br>
 &nbsp;&nbsp;&nbsp;&nbsp; ✨&nbsp; Inspiring devs to become the best version of themselves</br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🦾&nbsp; 14 years of creating amazing things in tech
 
